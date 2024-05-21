@@ -1,0 +1,480 @@
+Designing  tourism governance: The role of local residents
+
+Bernhard Fabian  Bichler
+
+University  of Innsbruck, Department for Strategic  Management, Marketing and Tourism, Faculty  of Business  and Management, Karl-Rahner-Platz 3, 6020 Innsbruck, Austria
+
+
+A B S T R A C T  
+
+Governance offers major potential for the management of tourism destinations. Tourism governance explores the constituents of tourism destinations and  focuses  on providing direction and boundaries for destinations. Previous research has considered powerful actors as important partners of governance, but paid  little  attention to the  role  of local  residents. This is especially relevant since  the  design  of tourism systems is becoming increasingly important and  highlights the  potential to include multiple actors. Local residents feel responsible for the destination and can provide stimuli for destination design  since they  are concerned about local conditions and circumstances. Through enabling the  participation of local  residents by involving a broader community to negotiate consensus and  adjust development intentions, long-term development is secured. As a result, local  residents’ participation is an essential aspect of effective tourism governance. This paper builds  on a systematic literature analysis in order to determine the  status quo  of tourism governance research in the  field  of local  residents. This analysis shows  that  tourism governance arrangements in destinations influence participation but frequently do not involve local residents. It also shows  that  innovation-centered approaches and  destination leadership provide opportunities to  revitalize participation in  tourist destinations. Finally, the  literature  analysis emphasizes that  tourism governance needs  to include local  residents and  that  further research is needed in order to design  participatory tourism governance arrangements.
+
+
+ 
+1.   Introduction
+
+New literature has emerged that focuses on the importance of design for  tourism development (Fesenmaier & Xiang,  2017;  Peters,  2017). Previous  research around tourism primarily discussed  spatial  design, such  as  physical  planning and  land  use  (Dredge,  1999), but  did  not address  integrating social systems  as well as tourism planning through design  in  detail  (O’Leary  & Fesenmaier, 2017). Additionally, studies that  focus  on  tourism governance have  not  sufficiently evaluated the growing role of the design of social and tourism systems or addressed the importance of participatory governance and  their  implications (Bets, Lamers, & Tatenhove, 2017;  Keyim, 2017;  Malek & Costa, 2014;  Pech- laner,   Herntrei,  Pichler,   &  Volgger,  2012). This  is  surprising  since tourism governance research is  an  established research stream   with systematic reviews (Borges, Eus´ebio, & Carvalho, 2014; Ruhanen, Scott, Ritchie,  & Tkaczynski,  2010), special  issues (Pechlaner, Raich,  & Beri- telli, 2010) and edited  books (Laws, Agrusa, & Richins, 2011; Pechlaner, Beritelli,  Pichler,  Peters,  & Scott, 2015).
+The widely  accepted understanding of governance concentrates on private and public actors (Beritelli,  Bieger, & Laesser, 2007; Flagestad & Hope, 2001;  Nordin  & Svensson,  2007). Research  findings  also noted  a shift  towards integrating government, business  and  community affairs into tourism governance to foster transparency, efficiency  and accountability (Bramwell  & Lane, 2011; Del Chiappa  & Presenza, 2013; Moscardo,   2011;  Presenza, Del  Chiappa, & Sheehan, 2013).  Several
+ 
+previous contributions  highlight  the  importance  of  community,  for example,   the    participation   of   residents,   consensus-building   for decision-making and  co-management arrangements  (Arnstein, 1969; Green  & Hunton-Clarke, 2003;  Timothy,  1999). In the  tourism gover- nance  context, Eagles (2009) reported high  levels  of consensus orien- tation  and   (public)  participation.  However, despite   the   success   of governance, previous literature argued  that tourism governance was not fully able  “to enhance the  social  and  economic well-being  of the  resi- dents  who live within  its boundaries (destination)” (Bornhorst, Ritchie,
+& Sheehan, 2010,  p. 573).  It is noted  that  local residents felt excluded from tourism planning or were perceived to be ill-equipped (e.g. lacking resources, time  and  motivation) to  participate in tourism governance (Presenza et al., 2013). This paper  argues  that  participation in tourism governance is particularly relevant since the negative effects of tourism mostly  manifest on the destination level as a burden for local residents (Joppe, 2018;  Timothy,  1999).
+Since  previous research only  provides a  limited   overview   on  the development of tourism governance research in the  last  years  (Borges et al., 2014;  Ruhanen, Scott,  Ritchie,  Brent,  & Tkaczynski,  2010), this research provides a systematic literature analysis of tourism governance literature and pays attention to the diffusion of participatory approaches in tourism governance (Arnstein, 1969;  Green & Hunton-Clarke, 2003; Timothy,  1999). A systematic literature analysis  is a structured, repli- cable and transparent approach (David & Han, 2004)  to summarize and categorize  existing   knowledge  (Fisch   &  Block,  2018).  This   paper 
+
+
+E-mail address: bernhard.bichler@uibk.ac.at.
+
+https://doi.org/10.1016/j.jdmm.2019.100389
+Received 27 September 2018;  Received in revised form  24 September 2019;  Accepted 13 October 2019
+Available online 23 October 2019
+2212-571X/© 2019  Elsevier  Ltd.  All rights  reserved. 
+ 
+highlights  the  important role  of  local  residents as  future   actors   of tourism governance and  expands  the current understanding of tourism governance  from  private  and   public   bodies   (Beritelli   et  al.,  2007; Ruhanen et al., 2010) to including local residents in order to improve the future  design  of tourism destinations, regions  and systems.
+
+2.   Theory
+
+2.1.   Definitions and characteristics of tourism governance
+
+In general, governance focuses  on  processes  and  structures (Pech- laner,  Kozak, & Volgger, 2014). From a horizontal perspective, tourism governance can  be local,  national or global  (Bramwell, 2011)  and  in- cludes  political, economic and  administrative affairs  (Eagles,  2009). From a vertical  perspective, governance is linked with management and interwoven with  civil  society  (Bramwell  & Lane,  2011). As a  result, governance accounts for a polycentric constellation that  involves  mul- tiple   relatively  autonomous  actors   (Denters,  2011).  Definitions  of tourism governance represent an issue (Bevir, 2011; Denters,  2011), but several   characteristics  can  be  distilled:  governance is  broader than government, concerns the way of governing, ruling  or steering societies and can include  multiple actors (Bramwell  & Lane, 2011). Additionally, two  major  research streams have  been  identified that  contributed to tourism governance. The corporate stream  states that governance is “the system  by  which   companies are  directed and  controlled”  (Cadbury Report,  1992), while  the  political stream  is concerned about  decision making   and  power   (Eagles,  2009). In  the  political  context,  Rhodes (1997), defines  governance as “the self-organizing inter-organizational networks characterized by interdependencies, resource exchange, rules
+
+
+Table  1
+Steps  for systematic literature analysis.
+
+Steps        Systematic literature review
+ 
+of the  game  and  autonomy from  the  state”  (p. 17).  The corporate and political  definitions  also  add   to  the  understanding  for  the  tourism context. Coordination and collaboration of different players  is essential for  the  management of  tourism destinations (Bramwell   & Sharman,
+1999;   Wang  &  Fesenmaier, 2007),  but  due  to  the  interrelated and interdepended structure of tourism (e.g.  interactions between visitors, tourists and service providers) powerful actors and groups have emerged that  dominate tourism development (e.g. by land use concessions). As a result,   the  previous definitions of  tourism governance concentrated more  on the  role  of the  public  (e.g.  levels  of government, DMOs) and private sector  (e.g. hotels,  restaurants, travel  agencies), which  includes their  networks and  intermediaries (Beritelli  et  al.,  2007;  Flagestad & Hope, 2001;  Nordin  & Svensson,  2007).
+Based on these  previously established definitions, Presenza, Abbate, and  Micera (2015) condensed the aim of tourism governance to “coor- dinate local stakeholders to design and develop  destinations … fostering different valuable forms of commitments, synergies and  collaborations between public/private actors and assisting policy-makers to implement sustainable development (…)” (p. 480).  Although the  responsibility of governance is frequently seen with the government or destination marketing organization (DMO) (Bramwell  & Lane, 2011), the  shift to- wards  design  thinking in tourism highlights the  possible  roles  of mul- tiple  actors  in tourism governance (Fesenmaier & Xiang,  2017). This paper   aims  to  highlight the  role  of  local  residents in  the  design  of tourism destinations. For example, new  developments in  information technology, such as virtual platforms (Lalicic, 2018; Pikkemaat & Peters,
+2016)  or social  innovations that  foster  social  responsibility (Zenko  & Sardi,  2014)  underpin the  importance of including public,  private and community aspects   into  tourism  governance. Previous   research  has addressed tourism governance from an industry perspective and focused on best  practices (e.g.  strategies, determination of actors),  however it has  paid   little   attention  to  the   role   of  local   residents  in  tourism governance. 
+
+1              Peer-reviewed and  published full articles (from
+1992 to 2018).
+ABI/Inform Global, Business Source, Econlit and  Web  of Science
+2              Keywords: ‘tourism’ and  ‘governance’.
+Quality thresholds: language, multiple journal hits
+3 	Initial assessment of title and  abstract and full assessment of body text
+4              Analysis of key characteristics, e.g. conceptual
+ 
+
+Feldman (2016); Cadbury Report (1992)
+
+
+David and  Han (2004); Borges  et al. (2014)
+
+David & Han (2004); Newbert, 2007
+Collins & Fauser (2005);
+ 
+
+2.2.   Participation of local residents in tourism governance
+
+Tourism  governance is based  on the idea  of a corporate or commu- nity  model   that   shows  different  characteristics  (Flagestad &  Hope,
+2001):   the   main   difference  concerns  the   ownership  structure  (e.g. diverse  ownership structures vs. dominating firms),  but  several  other differences emerge  (e.g.  transaction costs,  power  asymmetries, trust/-
+control, knowledge and informal/personal connections) (Beritelli  et al., 
+                    frame, findings and thematic analysis                      Newbert, 2007 	
+ 
+2007).  In   this   context,   governance  spans   the   responsibility   for 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Fig.  1.  Publication development by year,  2002–2018 (n = 69). 
+
+Table  2
+Distribution of articles by journal.
+
+Journal	No. of articles	Qual.	Quan.	Conc.	Mixed		(%)
+Local Environment	1		1				1.0%
+Journal of Cleaner Production	1				1		1.0%
+Tourism Management Perspectives	1				1		1.0%
+Scandinavian Journal of Hospitality & Tourism	1	1					1.0%
+Global Environmental Change	1			1			1.0%
+Tourism and  Hospitality Research	1		1				1.0%
+Annals of Tourism Research	2	2					3.0%
+Journal of Destination Marketing & Management	3	2	1				4.0%
+Journal of Travel Research	3	1	1		1		4.0%
+European Planning Studies	3	3					4.0%
+Tourism Geographies	4	3		1			6.0%
+Tourism Management	5	3	2				7.0%
+Tourism Planning & Development	5	3	1		1		7.0%
+Tourism Review	11	4		5	2		16.0%
+Journal of Sustainable Tourism	27						39.0%
+	69	15	2	6	4	100.0%	
+
+ 
+policy-making across  the  public  and  private sectors  (Dredge,  2006). However, providing space  for public,  private and  community actors  in tourism governance can  result  in  wicked  problems (Buchanan, 1992; Simon, 1973)  in a setting  that aims to steer and rule societies  (Bramwell
+& Lane, 2011).
+From a theoretical perspective, some scholars  (Eagles,  2009;  Ruha- nen  et  al.,  2010)   argue   that   governance is  already focused  on  the participation of  multiple actors.   However, more  scholars  have  chal- lenged  the  current understanding that  local  residents are  sufficiently considered. They have  noted  that  local residents and  communities are the   least   involved   stakeholders  in  tourism  governance  (Bornhorst, Ritchie,  Brent, & Sheehan, 2010;  Moscardo,  2011), when  compared to external experts   (Hall,  2005)   and  internal  influential and  powerful stakeholders (Aras & Crowther, 2009;  Beritelli  & Bieger, 2014;  Cooper, Scott, & Baggio, 2009; Peters & Strobl, 2015). This is controversial since residents  are  best  informed  on  what   works   under   local  conditions (Tosun, 2006)  and represent key actors in sustaining the offered tourism product (Hardy,  Beeton,  & Pearson, 2002). Frequently, local  residents are perceived as a part of the user community (Bets et al., 2017), a form of labor  supply  (Hall,  2005)  and  are  often  excluded from  making  de- cisions about  the design  of destinations (Hatipoglu, Alvarez,  & Ertuna,
+2016). As stated  by Joppe  (2018), private citizens  are at best consulted and requested to provide feedback  to proposals that  are reasonably well advanced.  Nonetheless, the   concept  of  community  is  complex   and characterized by various  facets (Dredge & Jamal, 2013; Gill & Williams,
+2011), but research has explored the development of spatially bounded
+
+characteristics of identity (Bets et al., 2017; Dredge & Jamal, 2013). As a result,  these  approaches were  reduced to account for ‘difference’  and
+‘unity’ at the same time (Malek & Costa, 2014).
+The  participation of  local  residents is  vital  as  tourism enhances democratization (Tosun, 2006) and secures investments (Malek & Costa,
+2014)  since it adds  an important missing  link to the  design  of tourism places  that  “must  reflect  the  environment within  which  it exists,  and further, the  underlying processes  which  stimulate or  support tourism experiences at one  level  scalable  from  small  to large  settings”  (Fesen- maier  & Xiang, 2017,  p. 7). In the tourism context, the environment is frequently characterized by community-oriented structures where participation of  stakeholders supports cooperative behavior and  im- proves  the tourism value  chain  (Peters,  2017).
+This paper  adopts  the view of the community as an interdependent, interactive and  exchangeable entity  (Nordin  & Svensson,  2007), with participation  as  an  “indispensable instrument”  to  achieve   effective tourism governance (Malek & Costa, 2014,  p. 284).  The paper  also ar- gues that well-informed and engaged  local residents are vital to ensuring the effective  design  of tourism destinations (Joppe, 2018).
+ 
+3.   Methods
+
+This  paper  follows  the  systematic literature analysis  approach  of David  and  Han  (2004), which  provides a  systematic, replicable and reliable  way of analyzing previous contributions. Systematic approaches are  often  used  in  other  disciplines (Mari  & Poggesi,  2013;  Newbert,
+2007;  Wilding  & Delbufalo,  2012)  and  were  recently also  applied to tourism research (Fu, Okumus,  Wu, & Ko¨seoglu, 2019;  Gomezelj,  2016; Marasco,  Martino, Magnotti, & Morvillo,  2018). This analysis  creates, evaluates and synthesizes existing  literature with the aim to summarize and categorize knowledge (Fisch & Block, 2018). David and Han (2004, p. 42) condensed it to “synthesizing existing evidence in this way can be a powerful tool in the building of knowledge, and can be as important as conducting new  research.” Importantly, systematic literature analysis implies  several  benefits   compared to  literature review  that  is  a  key aspect  of journal publications (Webster  & Watson,  2002). It aims  to assure  transparency and  replicability of  the  analysis  (David  & Han,
+2004)  as well as provides an in-depth overview  of the existing  research and concepts (Fisch & Block, 2018). A systematic literature analysis  can also be used to reveal existing research gaps that demand future research (David    &   Han,    2004).   Additionally,   this    analysis    requires  a process-oriented procedure that  includes  several  restrictions (Table 1):
+
+
+
+
+Table  3
+
+
+Criterion                                       Number of articles per  criteria                   (%)
+
+Location of study
+South America                           1                                                                         1.5% Africa                                               2                                                                         3.0% North America                           3                                                                         4.5% Asia                                                  5                                                                         7.0% Oceania                                   11                                                                       16.0% No location                              14                                                                       20.0% Europe                                     33                                                                       48.0%
+Research stream
+Management sphere                  31                                                                       45.0% Community sphere                    14                                                                       20.0% Public sphere                            24                                                                       35.0%
+Participation
+Yes                                                   33                                                                       48.0% Partially                                   17                                                                       24.5% No                                                    19                                                                       27.5%
+Method
+Quantitative                             9                                                                         13.0% Mixed                                               9                                                                         13.0% Conceptual                               17                                                                       25.0% Qualitative                               34                                                                       49.0% 
+
+ 
+
+Fig.  2.  Research streams based  on supplied keywords (21  items, 3 clusters, 126  links,  238  total link  strength).1
+ 
+(1)  Peer-reviewed, published full articles  were  considered for anal- ysis since they  were  subject  to a review  process,  which  reduced flaws  and  enhanced quality (Feldman, 2016). The  four  major databases ABI/Inform  Global,  Business  Source  Premier, Econlit and Web of Science were used for gathering the information. The data   was  acquired during   the  observation period   from  1992 (release of the  Cadbury  Report)  to June  2018  (research period) and  duplicates were  omitted. The systematic literature analysis also requires the definition of search  terms (David & Han, 2004). It is important to note  that  tourism governance can also be un- derstood  as  broader  concepts, e.g.  stakeholder participation, participatory planning or  community-based development (e.g. Cleaver, 1999; Mansuri, 2004; Reed, 2008 for reviews). Given the research objective and in order  to keep the task manageable, the understanding of tourism governance in  this  paper  focuses  on
+‘governance’   and   ‘tourism’    (including  word   roots)    in   the abstracts.
+(2)  Journals that  published multiple articles   on  governance were considered relevant (David & Han, 2004; Newbert, 2007). In this respect, a minimum of three  articles  per journal (between 1992 and  2018)  was  required for  initial  assessment. This  threshold reduced the  articles   from  503  to  241  articles   (and  from  249 journals to 31 journals).
+(3)  The derived  sample was double  checked  for relevance by reading title  and  abstract, resulting in  the  exclusion  of articles  with  a missing  scope.  Articles  were  excluded if it was determined that tourism  governance  was  not  a  key  theme   of  the  paper   and research, or focused  for example, on value/supply chain  gover-
+nance  (Erkus¸-O¨ztürk & Terhorst, 2010;  Song, Liu, & Chen, 2012)
+or  sustainability (Wang,  Cater,  & Low, 2016). These  specifica- tions  decreased the  number of publications to 105  articles  from
+30 journals. The identified articles  were fully read and reassessed
+ 
+for fit, resulting in the final sample  consisting of 69 articles  from
+15 journals.
+(4)  The following  information was assembled for each article:  article information (e.g.  author, journal, year  and  location), methods, aspects   of  participation  addressed and  affiliation to  research stream. Research  streams were  assessed  using  keyword analysis (VOSviewer software, Van Eck & Waltman, 2011). The thematic analysis  focused  on the  context  and  scope of the  study  (concep- tual  frame,  actors  involved, context, issue  and  implications for tourism governance) and  the  participatory elements of the  cor- responding tourism governance literature. In this  context, liter- ature  that  contained aspects  of participation was considered for this step of analysis  (Table  3). Based on earlier typologies (Arn- stein,  1969;  Green  & Hunton-Clarke, 2003)   the  contributions were  categorized into  context  categories of limited  – average – and increased opportunities for participation. These context  cat- egories   were  identified because   they   show  common   patterns (Macnaghten & Myers,  2005). The  derived   categories provide insights  into  the  research context, dimensions and  issues  that emerged in tourism governance literature over recent  years.
+
+4.   Results
+
+The final sample included 69 articles (see Fig. 1), which was obtained through a systematic literature analysis  (David & Han, 2004). The first contributions to  governance emerged in  the  1990s  (Cadbury Report,
+1992;  Pierre,  1999;  Rhodes,  1996), but  reached little  attention until
+2001 (Flagestad & Hope, 2001). The first tourism governance paper was published in  2002  and  focused  on  residents’ satisfaction with  public sector governance (Andriotis, 2002). Through the work of Flagestad and Hope  (2001) and  later  Beritelli  et al. (2007), contributions to tourism governance   increased   steadily   and    reached   a   maximum   of   12 
+ 
+publications in 2011.
+A closer  examination of data  highlighted the  most  influential jour- nals  between 2002  and  2018  (Table  2).  The  ‘Journal   of Sustainable Tourism’  published 27  papers   and  ‘Tourism  Review’  contributed 11 papers  in the observation period  (Table 2).(
+Further assessment showed that the ‘Journal  of Sustainable Tourism’
+published a well-distributed worldwide collection of papers, whereas
+‘Tourism  Review’  focused  on tourism governance in established desti- nations in Europe.  In this context, the research methods include  quali- tative    approaches  (55%),   mixed   method  (21%)   and   quantitative approaches (21%).  It is important to highlight that  most  of the  study sites are located  in Europe (48%), and further data analysis showed  that this  tourism governance research is  concerned about  the  local  level (58%).  Research  in Australia  focused  on qualitative approaches (73%) and  built  on strong  theoretical foundations (see Section  4.3),  whereas the  focus  there  is on a regional level  (64%).  Quantitative methods in tourism governance research experienced limited diffusion and fell short of designing common  measures and scales. For example, Eagles (2009) applied nine items to assess tourism governance, Hall (2011b) measured tourism    governance    along     12     items     and     Ferna´ndez-Tabales, Foronda-Robles, Galindo-P´erez-de-Azpillaga, and  García-Lo´pez (2017) used a catalog  of 43 items. As a result,  several difficulties arise about the comparability of quantitative tourism governance studies.
+Aspects of community participation were addressed in 72.5%  of the papers   and  27.5%   did  not  provide  further  evidence of  community participation (Table  3).  Systematic literature analysis  yielded  17  con- ceptual papers  (25%)  that  aimed  to improve  theories or provided new concepts (e.g.  Hall,  2011b;  Ruhanen et  al.,  2010;  Wan  & Bramwell,
+2015). Some  articles   provided  classifications of  tourism governance (Beaumont & Dredge, 2010; Beritelli et al., 2007; d’Angella, De Carlo, & Sainaghi,  2010;  Eagles, 2009;  Hall, 2011b). With regard to the research
+streams,  VOSviewer   analysis   of  keywords1   (Fig.  2)  revealed three
+different research  streams that   focused   on  the  management  sphere (destination management, sustainable tourism, tourism planning), the community sphere  (community concerns, conservation and  protected areas,    partnerships)  and   the   public   sphere    (government,   policy, networks).
+
+4.1.   Thematic analysis
+
+The  three   derived   context   categories  distinguish  by  several   di- mensions that  relate  to informative, consultative and decisional partic- ipation (Green & Hunton-Clarke, 2003). The context  category of limited participation opportunities (references see Table 4) contains articles  that reported on  limited   opportunities for  participation and  that  did  not promote further resident participation. In  this  context, decisions   are taken  without community consensus orientation  and  concentrate on informative practices. The involved  actors  were  frequently limited  to public and private actors and exclusive to community and residents. The context   category of  average participation  opportunities (references  see Table  5) distinguishes by increased involvement of local  residents but lacks, e.g. platforms for participation and  limited  possibilities to influ- ence  decisions. The context  category of increased participation opportu- nities (references see Table 6) exhibits  examples that  show awareness of the  importance of local  residents participation. It shows  strong  theo- retical  foundations and highlights successful examples of local residents participation in project  and strategic development.
+
+4.2.   Limited opportunities for participation in tourism governance
+
+This context  category is characterized by market-driven approaches
+
+
+1   Layout  attraction and  layout repulsion parameters were  set  to  2  and  0;
+clustering resolution and minimum cluster size parameters were  set to 1.00  and
+1.
+ 
+(Slocum  & Everett,  2014)  and expansion-oriented governance arrange- ments (Wan, 2013; Yüksel, Bramwell, & Yüksel, 2005) that aim to secure development via top-down management approaches. In this context, the involvement of  actors  in  decision-making is  limited   to  a  few  actors (Paddison & Walmsley,  2018;  Wan, 2013). The category shows  exam- ples where  governance is performed by the state, exerting direct  control through funding and policy actions  (Wan, 2013) or indirectly by shifting responsibility to  state   near   influential private actors   (Yüksel  et  al.,
+2005). These  actors  have  power  because  of formal  networks and  gov- ernment support. The literature highlighted that  growth-oriented des- tinations frequently pay insufficient attention to awareness creation and knowledge diffusion  within  local  communities (Farmaki, 2015).  The findings  also  show  that  new  public  management approaches do  not improve  participation. Shifting power from the state to public-private or private partnerships increased centralization of activities around DMOs and   local   elites   and   resulted  in   democratic  deficits   (Paddison  & Walmsley,  2018). As a result,  difficulties arise  when  power  shifts from public  to private entities.
+On the local level, stakeholders were able to strengthen cooperation through knowledge sharing, personal contacts and  self-initiative (Stof- felen,  Ioannides, & Vanneste, 2017). This is important since  research found  that  “limited  stakeholder participation” can  lead  to undesirable developments that  resulted in  formal  institutions withdrawal (Zahra,
+2011, p. 543) and exclusion of under-resourced stakeholders (frequently residents, NGOs and  underfinanced firms).  On the  national level, diffi- culties  arise when  diverging governance systems intersect at and across borders;  this  often  prevents cooperation and  ultimately participation (Stoffelen  et al., 2017).
+Previous   tourism governance research has  shown  interest in  de- velopments that  aim  to  improve  sustainability (Andriotis, 2002;  Hig- gins-Desbiolles, 2011;  Zahra,  2011). Valuable  opportunities for participation are  presented in  the  context   of  national parks:  Dinica (2017) stated  that  in  national park  governance there  are  “across  all layers  public  and  stakeholder engagement processes,  ensuring that  cit- izens  and  stakeholders have  input  in  the  design  of  legal  and  policy frameworks, and collaboration with  businesses/NGOs/communities for the  implementation of objectives and  instruments” (Dinica,  2017,  p.
+1813). National parks use concessions to operationalize governance, but frequently achieve  unsustainable outcomes because  of the  embedded- ness  in  neo-liberal  environments  (Dinica,   2017).  Additionally, Hig- gins-Desbiolles (2011)  observed a “death  by  a thousand cuts”  in  the implementation and execution of governance for sustainable tourism.
+
+4.3.   Average opportunities for participation in tourism governance
+
+This  context   category  provides  valuable  insights   into  the  trans- mission  process  of destinations from low to improved opportunities for participation (Table  5).  A change   in  governance arrangements  was observed for destinations that  previously focused  on top-down ap- proaches to achieve  growth and  secure  legitimacy (Wan  & Bramwell,
+2015). These examples foster  participation (Wang & Bramwell,  2012), while  ensuring efficiency  and  equity  (Wan  & Bramwell,   2015).  For example, it  was  recognized that   “in  a  society  that   has  increasingly diversified demands the  government sees  the  need  to  include   wider public views … although the Chief Executive still has the ultimate power to control  the final plan-making decisions”  (Wan & Bramwell,  2015,  p.
+326).  This shift is congruent with  the  shifts from shareholder to stake- holder  perspectives (Garnes & Grønhaug, 2011)  that  targets the balance between economic and sustainable interests (Wan & Bramwell,  2015).
+Hybrid  governance arrangements are linked  to improved participa- tion, but decision-making in this setting  is still determined by top-down organized institutions (Hatipoglu et al., 2016;  Wan & Bramwell,  2015).
+Findings  of Mihaliˇc,  Sˇegota,  Cvelbar,  and  Kuˇsˇcer  (2016) showed  that
+coordination and  cooperation are  important aspects  of tourism devel- opment. Vertical  and  horizontal integration is a theme  that  emerged elsewhere throughout  the  analysis   (Gro¨nholm,  2009;  Mihaliˇc  et  al., 
+
+Table  4
+Low levels  of participation opportunities in tourism governance.
+
+Authors	Method	Conceptual frame	Subjects	Context	Issue	Tourism governance
+Andriotis (2002)	Quantitative	Wellbeing	Community	Satisfaction/	Successful public policies	Approval of policies is key
+				dissatisfaction with	need acceptance	for local  community
+				public sector		support
+Yüksel  et al. (2005)	Qualitative	(De-)centralized	Public sector, private	Centralized governance	Enclave development and	Centralized actor
+		governance	sector, NGOs, local	in coastal resort	centralized power	dominates tourism
+			people	destination		development
+Henriksen and	Qualitative	Institutionalist	Tourism managers	Change of tourism policy	Locally-based, on-site and	Network-based approach
+Halkier (2009)		perspective		from  local  to regional	service-oriented	with mutually dependent
+					approach	actors
+Higgins-Desbiolles	Qualitative	Sustainable	Public sector, private	Governance and	Trade-offs between	Forced public-private
+(2011)		development	sector, NGOs, local	development approval	protection and  economic	partnership achieve trade-
+			people	process of an ecolodge	benefits	offs
+Zahra (2011)	Qualitative	Subsidiarity	Private sector, public	Understanding  RTO	Contributions of RTOs	RTO address private,
+			sector, RTO/DMO actors	governance	intangible	public and  community
+Wan  (2013)	Qualitative	Political economy	Public sector, academia	Executive-led and  top-	Balance between top-	Integrate different
+		framework		down administration	down and  participation	stakeholders in decision-
+						making process
+Slocum and  Everett	Mixed	Three generations of	Tourism businesses,	Market-driven driven	Unable to manage tourist	Lack of efficiency and
+(2014)		tourism policy	tourists and  tourism	approach driven by	expectations or	support structures
+		theory	officers/workers	powerful stakeholders	community development	
+					issues	
+Farmaki (2015)	Qualitative	Network approach	RTO/DMO actors,	Evaluating the	RTOs dependency on	Network governance-
+			private sector, NGOs,	effectiveness of regional	foreign tour operators	related challenges interact
+			academia	tourism governance	limits effectiveness	with region-specific
+						characteristics
+Dinica (2017)	Qualitative	Framework	Public sector, private	Use of concessions for	Circumstances of	Neo-liberal governance
+		approach	sector, advisory boards	tourism business	concessions	unsustainable
+			(representing			
+			community)			
+Stoffelen et al. (2017)	Qualitative	Scalar power	Public sector and  private	Destination governance	Institutional alignment	Fluid  borders facilitate
+		relations	sector	in transnational/within-	problems and  power	governance
+				country borderland	issues	
+Paddison and	Qualitative	New  public	Public sector, private	Outsourcing of	New  public management	Local elite dominating the
+Walmsley (2018)		management	sector	destination management	hinders democracy and	decision-making process
+					reduces accountability	
+ 
+2016). Integration can  be  strengthened by  governance arrangements that improve  the political environment since this contributes to resident satisfaction and  ultimately in  support for  tourism (Komppula, 2016). Additionally, governance needs  to integrate dispersed actors  on a hori- zontal  and  vertical  level in order  to enhance coordination and  cooper- ation (Garnes & Grønhaug, 2011; Pechlaner, Herntrei, et al., 2012). The complexity of the  involved  actors  was observed as an exemplary issue for this context  category (Airey, 2015;  Franch,  Martini,  & Buffa, 2010).
+Franch et al. (2010) highlighted that destinations where demand was successfully  established, have  lower  interest to enable  resident partici- pation  and  share  tourism benefits. The literature provided examples of communities that  perceived tourism as an important income  source  of livelihood (Keyim,  2017). According  to  social  exchange theory, com- munity members adjust  their  commitment to the benefits  derived  from collaborations   (Bets    et    al.,    2017).   Research    has    shown    that self-governance is effective  under  government monitoring (Bets et al.,
+2017), but often participatory structures are perceived idealistic as well as  strongly   depend  on  the   institutional  design   of  the   destination (Beaumont & Dredge,  2010). As a result,  a participatory network is not necessarily responsive and  traditional forms  like council-led networks are  not  per  se  top-down (Beaumont & Dredge,  2010). This  context category exemplified the  struggle  between efficiency  vs. inclusiveness, internal vs. external legitimacy and flexibility  vs. stability (Beaumont & Dredge,  2010).
+
+4.4.   Increased opportunities for participation in tourism governance
+
+The   context    category  of   increased  participation  opportunities (Table  6)  draws  on  solid  theoretical foundations from  participatory theory   (Jamal &  Watt,  2011), political economy   (Bramwell, 2011), leadership theories (McGehee,  Knollenberg, & Komorowski,  2013; Pechlaner et al., 2014)  and critical  approaches to tourism (Bramwell  &
+ 
+Lane,  2011;  Dredge  & Jamal, 2013). These  approaches support the notion  of interrelated economic and  social  spheres  (Bramwell, 2011), thus highlighting the importance to include  social spheres  in the design of tourism governance.
+Empowering  residents  and   understanding  them   as   “users   and choosers” (Malek & Costa, 2014, p. 282) is an important principle. Jamal and  Watt (2011) argued  that  participation is an avenue of citizen  edu- cation that leads to collaborative governance arrangements that build on consensus  and   rational  principles. For  example,  the   destination  of Whistler,    Canada,    represents  a   destination  in   transition  from   a pro-growth and  investment-driven destination towards a more  demo- cratic,  community-driven destination that  acts according to sustainable principles (Gill & Williams,  2011). An example from Europe  is the Cit- taslow movement (Presenza et al., 2015), which aims to improve  quality of life using collaboration, integration and  commitment of local stakeholders.
+In some of the studies  there  is a discussion  about  who holds  the re- sponsibility to  initiate and  arrange  participatory  governance. Eagles (2009, p.231) illustrated that  “governance involves  the state,  but tran- scends  the  state  because  it involves  corporations, nongovernment or- ganizations and individuals”. In this context, leaders  of rural tourism are becoming important as they are used to coordinate different actors  and balance multiple interests across the destination (McGehee et al., 2013). They make sense of different forms of leadership (McGehee et al., 2013) and  often  act as ambassadors to promote the participation of local res- idents. Pechlaner et al. (2014) stressed the importance of this leadership, which  motivates, encourages and  inspires  actors  by setting  long-term values  and  directions.  Leadership also  influences the  potential  goals achieved by bottom-up processes  (Valente, Dredge, & Lohmann,  2015). State involvement in governance is usually  justified  with  the empirical fit between the  state  and  the  responsibility to care  for collective com- munity interests (Bramwell, 2011). Hall  (2011a) used  the  notion   of 
+
+Table  5
+Average levels  of participation opportunities in tourism governance.
+
+Authors	Method	Conceptual frame	Subjects	Context	Issue	Tourism governance
+Beaumont and  Dredge	Conceptual	Network approach	Tourism managers	Council-led-, participant-	Lack of knowledge how	Networks show
+(2010)				led-,  LTO-led  network	different governance forms	different trade-offs
+					perform	
+Franch et al. (2010)	Mixed	Network/	Tourism managers,	Power characteristics of	Identify primary/	Exogenous demand less
+		stakeholder theory	public sector, private	stakeholders	secondary stakeholders	involvement
+
+Gro¨nholm (2009)	
+Quantitative	
+Adaptive	sector
+Community and  private	
+Rather centralized form	
+Lack of (possibilities for)	
+Knowledge imbalances
+		management	sector	of national park	involvement	in adaptive
+				management		management
+D’Angella et al. (2010)	Qualitative	Destination	Public sector, private	In-depth study of 13	Broad involvement of	Archetypes of
+		governance	sector	destinations	stakeholders	destination governance
+Garnes and  Grønhaug	Qualitative	Shareholder/	Board of directors	Explore the  role  and	Shareholder perspective	Shareholder view  is
+(2011)		stakeholder		responsibilities of	instead of stakeholder	replaced with
+				directors	perspective	stakeholders
+Pechlaner, Herntrei,	Qualitative	Regional	Public sector	Regional public	Contributions of regions to	Innovation systems
+et al. (2012)		innovation system		management	companies’	must recognize
+				organizations as regional	competitiveness	residents, tourists,
+				innovation system		companies
+Wang  and  Bramwell	Qualitative	Political economy	Public sector, private	Policy-making for	Selective policy choices	Powerful policy
+(2012)			sector, tourism	heritage protection or	drive tourism development	community starting to
+			managers, community	development		enable participation
+Eagles  (2014)	Conceptual	Sustainable	Public sector	Research gaps  in park	Park  management	Building public support
+		tourism		tourism	determined by governance	
+					structure	
+Halkier (2014)	Qualitative	Destination	Public sector	Decreasing market shares	Limited priority to	Localism and  short-
+		governance		and  number of visitors	innovation-oriented	termism limit
+					improvements to improve	development
+					attractiveness	
+Pforr, Pechlaner,	Quantitative	Path dependence/	Public sector, private	Merger of two  tourism	Improve competitiveness	Governance of informal
+Volgger, and		social network	sector	regions affecting	and  implement functional	communication
+Thompson (2014)		analysis		communication and	perspective	
+				collaboration		
+Airey  (2015)	Conceptual	Political	Public sector, tourism	Evaluation of tourism	Complexity of involved	Role of policy-makers
+		dimensions	managers, private sector	policy	stakeholders	
+			and  informed observers			
+Wan  and  Bramwell	Qualitative	Political economy	Government, public	Influence of political	Diversified community	Combination pro-
+(2015)			sector	economy on modes of	demands and  ruling	growth and  pluralist
+
+Mihaliˇc et al. (2016)	
+Quantitative	
+Sustainability	
+Local  community	tourism governance
+Influence of perceptions	legitimacy
+Underestimated	elements
+Six factors for
+		concept		of tourism impact on	importance of political	governance assessment
+				support	environment	
+Komppula (2016)	Qualitative	Stakeholder	Private sector, tourism	Highlight role  of	Contribution of individual	Leadership is attributed
+		theory	managers, government,	individuals,	actors to leadership	to individuals
+			public sector	entrepreneurs and  others		
+				for development		
+Hatipoglu et al. (2016)	Mixed	Sustainable	Government,  NGOs,	Barriers to stakeholder	State-centric perspective in	Context-specific
+		planning	private sector, academia	involvement	strategy process	barriers to stakeholder
+			and  public sector			participation
+Bets et al. (2017)	Qualitative	Sustainable	Public sector, tourism	Collective self-	Community development	User  community as
+		tourism	managers, private sector,	governance for	often viewed in isolation	intermediary for
+			NGOs, academia and	sustainable development		governance
+			local  community			
+Fernandez-Tabales et al.	Quantitative	Sustainable	Experts, tourism	Territorial governance	Numerous attempts to	Quality of participatory
+(2017)		tourism	managers, public sector,	indicators for tourism	develop indicator systems	process
+			private sector	destinations	of sustainability in	
+					destinations	
+Keyim  (2017)	Qualitative	Collaborative	Private sector,	Rural tourism in	Struggle to formulate	Limited benefits
+		approach	community, public sector	peripheral community	governance approach	because of inadequate
+				destination		involvement
+ 
+first-,  second-  and  third  order  change  to raise  the  question of whether incremental changes  will be sufficient to redesign future  destinations, or whether radical  adjustments are necessary.
+The  call  for local  residents participation in tourism governance is incomplete when  no attention is paid  to the  limits  of the  participatory processes.  Following  Presenza et al. (2013), limitations to participation can be reduced to the  “lack of financial resources, investment capital, know-how and  the competencies needed to take  the initiative in developing tourism, apathy, and  a low  level  of awareness within  the local community” (p. 30).  It was also found  that  gatekeeping can be a serious   concern   for   the   increased  participation  of  local   residents (McGehee  et al.,  2013). As a result,  participation can  be a significant
+ 
+problem in  some  cases  and  can  increase the  exclusion   of  residents because   of  the  complex   engagement opportunities  and  horizontally dispersed communities (Hewlett & Edwards,  2013). Increased partici- pation  underlines the necessity  for a well-informed community, as highlighted by Jamal and Watt (2011), in order  to understand the need for regulations in order  to achieve  sustainability (Presenza et al., 2015). When  the  goal  of  increasing the  participation of  local  residents in tourism governance is to foster democracy, accountability, transparency and legitimacy, an issue that can arise is the blurring of borders  between residents, communities and stakeholders (Dredge  & Jamal, 2013). 
+
+Table  6
+Increased levels  of participation opportunities in tourism governance.
+
+
+
+
+
+
+
+
+
+
+
+
+(2011)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+5.   Discussion
+
+Previous  literature stresses  the  importance of design,  designing or design thinking for tourism (Fesenmaier & Xiang, 2017)  and states  that design  is  not  just  about  physical  artifacts, but  also  about  processes, symbolic   systems   and   human  activity   systems   (Tussyadiah, 2013). Tourism design can be understood better by the phases: “understanding and  discovery, proposing solutions, evaluation and  redesign”  (Fesen- maier & Xiang, 2017, p. 12). These phases can be found in the identified context  categories, for example, several contributions show that tourism governance is often  thought deterministic and  led by strong  normative approaches (Table 4). Joppe  (2018) indicated a focus of tourism governance on  networks and  communities. In this  sense,  the  derived context  categories provide additional insights. For example, increased participation of multiple actors  can result  in difficult  situations, where steering becomes  an issue (Bramwell  & Lane, 2011). This is especially relevant in the context  of tourism governance that  addresses processes and  structures and  poses the  question of how to, e.g. organize, coordi- nate   or  govern   (Pechlaner  et  al.,  2014).  Nevertheless, governance
+ 
+research needs  to  provide successful   examples and  destination  role models (Gill & Williams, 2011)  that illustrate the feasibility of increased participation and  the  benefits  derived  for enterprises, community and public  bodies  (Bramwell  & Sharman, 1999).
+The findings  highlight that  the intended level of destination growth affects  tourism governance arrangements and  ultimately community participation. In general, destinations and countries focusing on tourism growth allow  less  stakeholder participation and  therefore frequently exclude  residents as potential actors  of tourism governance. This fact was pointed out for high-growth destinations in Asia (Wan, 2013; Wan & Bramwell,  2015)  and appeared as a legacy of maturing destinations (Gill
+& Williams,  2011;  Wray,  2014). It was  observed that  tourism gover- nance  is often  embedded within  a market-based view  that  aims  to in- crease  competitiveness, secure  benefits  while  balancing environmental and  social  issues  (Table  4).  The  research findings   have  shown  that governance is frequently centered around powerful actors  (Paddison & Walmsley,  2018;  Yüksel et al., 2005)  that  influenced tourism develop- ment  and policies.  In line with the shift towards more collaborative and community-oriented structures in destinations (Bramwell  & Sharman, 
+ 
+1999), several  examples emerged where  other  stakeholders were  inte- grated  in the  decision-making for tourism development (e.g.  formula- tion of a tourism strategy) (Bets et al., 2017;  Pechlaner, Herntrei, et al.,
+2012;  Wang & Bramwell,  2012). The studies  show that  tourism gover- nance  should  not be viewed  outside  of the economic and social context of the macro  environment (Wan & Bramwell,  2015).
+The  findings   also  emphasize  the   potential  of  local  residents  as important actors  of tourism governance, showing  that  participation  is considered in tourism governance, but  research and  management are still  lacking  approaches to  handle participation. Several  approaches used in these studies provide valid guidelines to improve participation in tourism governance, revealing that  the perceived importance of partic- ipation changed over the last few years (Gill & Williams,  2011;  Wan & Bramwell,  2015). Social innovations also altered the  way of how soci- eties  deal  with  problems (e.g. environmental issues or social injustice) and match  with the idea of paradigm shifts in tourism (Dredge & Jamal,
+2013).    Malek     and     Costa    (2014)    offered     a    framework    for community-integrated planning that  builds  on  social  innovation pro- cesses. This approach aims to incorporate public  organizations, private sectors,     community    groups     and     local     residents.    In    general, process-oriented approaches can  facilitate the  design  of opportunities for participation as they address  all stakeholders involved in the process. It  also  provides three   strategies that   can  be  implemented to  secure participation:  networks, direct   participation and  survey  instruments (Malek  & Costa,  2014). Innovation-centered approaches highlight the importance of learning processes  to realize  new ideas, share  knowledge and  provide information (Hall,  2011a). These processes  improve  crea- tivity  and offer solutions to wicked  problems that  emerge  from partici- pation  processes  (Bramwell  & Sharman, 1999;  Buchanan, 1992). The results serve to emphasize the role of policy-makers and local leaders  for enabling participation (Jamal & Watt, 2011; Moscardo,  2011), as well as question which actors and entities have the responsibility to initiate and progress  participation of local residents.
+Leadership approaches (Beritelli  & Bieger,  2014;  Pechlaner et  al.,
+2014)  also offer a starting point.  While tourism governance focuses on providing direction for destinations by structures, processes  and norms, destination leadership highlights the importance of personal vision and motivation (Pechlaner et al., 2014). Critical  components of destination leadership are  factors,  such  as inspiring, encouraging and  motivating human actors  as well as setting  values  (Pechlaner et al., 2014). Desti- nation leadership aims to involve all actors within a destination and does not limit  the scope to formal  institutions and  organizations. It requires leaders  that  can  navigate political environments by use  of leadership (Verbole,  2000), to improve  resident participation from the bottom-up. According   to  Beritelli   and  Bieger  (2014), a  systemic   perspective  of leadership in tourism destinations is well placed  on incorporating communities, networks and regions (2014). The fundamental principles of governance (Pechlaner, Volgger, et al., 2012; Ruhanen et al., 2010) fit well  with  the  idea  of  destination leadership, which  builds  not  only exclusively  on  elites  and  managers, but  also  on  all  who  share  on  it, including local  residents (Beritelli  & Bieger,  2014;  Hristov  & Zehrer,
+2015). As a result,  destination leadership has important implications for the  design  of destinations that  should  incorporate the  existing  envi- ronment (Fesenmaier & Xiang, 2017). Social theories, such as political economy, regulation theory, post-structural theories, offer  a  starting point  for an advanced understanding of how destinations are designed. These theories account for horizontal and  vertical  heterogeneity of in- terests  and allow diverse ontological positions for exploring destinations (Bramwell, 2011;  Mosedale,  2011). The social theories align  well with the   idea   that   participation  is  more   than   binary   participation  or non-participation (Hewlett & Edwards,  2013), determined by “pay  to play” (Joppe, 2018,  p. 203). It is also argued  that  after consultation and shared   decision  making,   tourism governance needs  to  consider how participation  provides local  communities  the  opportunity to  decide against  further development of tourism and  reject  tourism as a devel- opment option  (Li, 2006). In this  case,  design  thinking (Cross,  2011;
+ 
+Tussyadiah, 2013)   can  lead  to  creative and  alternative solutions to generate competitive advantages for tourism destinations. Beritelli  and Laesser (2017) offer a structured approach how this design process  can be handled by: (1) understanding the past development and the current state,  (2)  articulate challenges and  identify  possible  solutions and  (3) prioritize feasible and useful projects  and initiatives (Beritelli  & Laesser,
+2017).
+These findings enable  a better understanding of how governance and its  responsibilities are  understood in  varying  settings,  for  example in emerging destinations, established destinations and rejuvenating desti- nations. Additionally, the  literature analysis  showed  the  valuable, but frequently underrepresented  position of  local  residents compared to private and public actors.  Based on the increasing importance of community-based developments (Mansuri, 2004),  stakeholder  inclu- siveness (Bramwell & Sharman, 1999) and the notion that “everyone can
+– and does – design” (Cross, 2011,  p. 3) it is important that  governance arrangements reflect better on the underlying structures and incorporate the  environment that   enables   tourism (Fesenmaier & Xiang,  2017). Although increased participation can  lead  to significant issues (Buchanan, 1992;  Simon, 1973), it is essential to collaborate with  local residents to design structures, processes  and to assign responsibilities to entities capable of steering tourism governance.
+
+6.   Conclusion, implications and future  research
+
+This paper provided a structured overview of the tourism governance literature and   examined  the  extent   of  participatory  aspects   in  this literature in order  to determine the  dissemination of participatory ele- ments  and  how  it cultivated the  idea  of local  residents’ participation (Arnstein, 1969;  Green  & Hunton-Clarke, 2003). These  findings  high- light  three   context   categories: limited, average, and  increased, with distinctive characteristics of participation opportunities in tourism governance. The  analysis  revealed that  the  understanding of tourism governance was  often  normative, top-down and  focused  on economic activity, rather than  enabling participation. However, the  context category of increased participation (Table  6) shows  different patterns. Opportunities for participation can be increased by innovation centered approaches and  destination leadership. In addition, discussing  the  re- sponsibilities for designing participatory structures is important in order to  secure  implementation (McGehee  et  al.,  2013). The  findings  add substantially to  our  understanding of tourism governance actors  and show  that  local  residents are  a  critical  element for  effective  tourism governance. This  paper   showed   that   design-related approaches that acknowledge that  everyone can  act  as  a  designer (Cross,  2011)  can improve  tourism governance arrangements by  considering local  resi- dents  as important actors.
+The analysis showed the demand for improved coordination between institutions  in  charge   of  planning  (e.g.   policy-makers, destination management organizations) and addressees of planning (e.g. local resi- dents)  (Beritelli,  2011;  Dredge  & Jamal, 2013). It is crucial  to design platforms in destinations that  provide spheres  for discourse (Dredge  & Whitford, 2011;  Lalicic,  2018)  and  improve  communication between community members (Malek  & Costa,  2014). Direct  participation and resident engagement fit well  with  tourism destinations that  have  pro- gressed in the destination life cycle and seek rejuvenation (Pikkemaat & Weiermair, 2007; Presenza et al., 2013; Weiermair, Peters, & Schuckert,
+2007). These  destinations offer the  potential to act  as role  models  for participatory and collaborative tourism governance and can offer local residents a  platform to  collaboratively  design   and  plan  destination development (Lalicic,  2018). However  as discussed, providing partici- pation  opportunities for local  residents can  result  in wicked  problems (Buchanan, 1992)   for  tourism governance, which   primarily aims  at providing direction  and  setting   boundaries  (Pechlaner et  al.,  2010,
+2015).  Tourism   governance  is   confronted  with   complicated and changing community structures and  local  residents that  may  disagree with  development intentions. However, this  gives  priority to consider 
+ 
+Table  7
+Recommendations for future research.
+
+Conditions for destination design
+Examine perceived roles and responsibilities of local  residents in destinations.
+Consider the  crucial role  of destination managers and policymakers in fostering participation and  involvement of local  residents.
+Explore critical resources that enable local  residents to participate in tourism development. Explore the  effect and  influence of institutional designs on leadership and  social capital
+Evaluations of destination design
+Develop a tool  for assessing participatory governance structures in tourism destinations that allows evaluating integration, involvement and  consensus orientation in the  broader community under varying governance settings. Challenge the nexus between tourism, the  state, economy and  society from  a political economy perspective and consider spatial and  temporal changes of microscale agency, macro scale  structures and dialectical relations
+Implications of varying governance settings
+Examine the  role  of path dependency for tourism destinations that establish new governance structures and consider the influence of past legacies (culture, social structures, certifications schemes). Investigate the  necessary institutional and  social structures that allow for participation and support of the  civil  society
+ 
+
+
+
+
+Jamal & Watt (2011); McGehee et al. (2013); Moscardo (2011); Panyik (2015); Pechlaner et al. (2014); Valente et al. (2015)
+
+
+
+
+
+
+
+
+
+Bramwell (2011); Eagles  (2009);
+Fernandez-Tabales et al. (2017); Hall
+(2011b); Wan  & Bramwell (2015); Wang
+& Bramwell (2012)
+
+
+
+
+
+
+
+
+
+
+Bramwell (2011); Gill & Williams (2011); Malek and  Costa  (2014); Pforr et al. (2014); Presenza et al. (2013); Presenza et al. (2015); Qian  et al. (2016); Wan  & Bramwell (2015)
+ 
+used  typology  (Green  & Hunton-Clarke, 2003)  can  be  problematic as more  nuances may exist (Hewlett & Edwards,  2013).
+
+
+Declaration of competing interest
+
+There  is no  conflict  of interest with  any  financial organization or among  authors regarding the content of the manuscript.
+
+Appendix A.  Supplementary data
+
+Supplementary data to this article can be found online at https://doi. org/10.1016/j.jdmm.2019.100389.
